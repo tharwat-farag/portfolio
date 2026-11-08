@@ -1,27 +1,21 @@
 # THARWAT FARAG
 
 <p align="center">
-  <strong>DATA ENGINEER</strong>
-  <br/>
-  <em>Turning Raw Data Into Meaningful Insights</em>
-  <br/><br/>
-  <a href="https://tharwat-farag.vercel.app/">PORTFOLIO</a>
-  &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/tharwat-farag/">LINKEDIN</a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/tharwat-farag">GITHUB</a>
-  &nbsp; | &nbsp;
-  <a href="mailto:tharwatbadreldin@gmail.com">EMAIL</a>
+  <strong>DATA ENGINEER</strong><br/>
+  <span>SQL · PYTHON · ETL/ELT · DATA PIPELINES · DATABASE ADMINISTRATION</span><br/><br/>
+  <a href="https://tharwat-farag.vercel.app/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-70D6A1?style=for-the-badge&labelColor=10251E&color=70D6A1" alt="Visit Portfolio"></a>
+  <a href="https://www.linkedin.com/in/tharwat-farag/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=10251E" alt="LinkedIn"></a>
+  <a href="https://github.com/tharwat-farag"><img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&labelColor=10251E" alt="GitHub"></a>
+  <a href="mailto:tharwatbadreldin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&labelColor=10251E" alt="Email"></a>
 </p>
 
 <p align="center">
-  <code>SQL</code> <code>PYTHON</code> <code>ETL/ELT</code>
-  <code>DATA PIPELINES</code> <code>DATABASE ADMINISTRATION</code>
+  <em>Building reliable data solutions and turning raw data into meaningful insights.</em>
 </p>
 
 ---
 
-## 01 — About Me
+## 01 — ABOUT ME
 
 I'm **Tharwat Farag**, a Data Engineer with a professional background in SQL, Database Administration, and technical operations for Learning Management Systems (LMS) and EdTech platforms.
 
@@ -29,54 +23,90 @@ My experience combines database troubleshooting, production issue investigation,
 
 I have supported and operated **100+ LMS and EdTech platforms serving 130,000+ active users**, gaining practical experience working with production environments and business-critical data.
 
-I also completed the **Data Engineering Specialist Track** through the Digilians Initiative, delivered in collaboration between MCIT and the Egyptian Military Academy.
+I completed the **Data Engineering Specialist Track** through the Digilians Initiative, delivered in collaboration between MCIT and the Egyptian Military Academy.
 
 My goal is to build reliable data pipelines and structured data solutions that help organizations make better, data-driven decisions.
 
-## 02 — Professional Highlights
+## 02 — PROFESSIONAL HIGHLIGHTS
 
-| Experience | Impact |
-|:---:|:---|
-| **4+ Years** | SQL & Database Experience |
-| **100+** | LMS & EdTech Platforms Supported |
-| **130K+** | Active Users Served |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h2>4+ Years</h2>
+      <sub>SQL & Database Experience</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>100+</h2>
+      <sub>LMS & EdTech Platforms Supported</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>130K+</h2>
+      <sub>Active Users Served</sub>
+    </td>
+  </tr>
+</table>
 
-## 03 — Technical Stack
+## 03 — TECHNICAL STACK
 
 **Data Engineering & Processing**
 
-`ETL/ELT` `Data Pipelines` `Data Modeling` `Data Warehousing`
+<p>
+  <img src="https://img.shields.io/badge/ETL%2FELT-1B4332?style=for-the-badge" alt="ETL and ELT">
+  <img src="https://img.shields.io/badge/DATA_PIPELINES-1B4332?style=for-the-badge" alt="Data Pipelines">
+  <img src="https://img.shields.io/badge/DATA_MODELING-1B4332?style=for-the-badge" alt="Data Modeling">
+  <img src="https://img.shields.io/badge/DATA_WAREHOUSING-1B4332?style=for-the-badge" alt="Data Warehousing">
+</p>
 
 **Programming & Databases**
 
-`Python` `SQL` `MySQL` `Pandas` `NumPy`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" alt="NumPy">
+</p>
 
 **Big Data & Orchestration**
 
-`Hadoop` `Hive` `Spark` `PySpark` `Apache Airflow` `Kafka`
+<p>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge" alt="Hadoop">
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge" alt="Hive">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge" alt="Spark">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge" alt="PySpark">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge" alt="Apache Kafka">
+</p>
 
 **Cloud, Platforms & Tools**
 
-`Microsoft Fabric` `Azure Data Factory` `ADLS Gen2` `Docker` `Git` `GitHub`
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge" alt="Microsoft Fabric">
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge" alt="Azure Data Factory">
+  <img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge" alt="Azure Data Lake Storage Gen2">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge" alt="GitHub">
+</p>
 
-## 04 — Featured Projects
+## 04 — FEATURED PROJECTS
 
-A selection of hands-on projects demonstrating my work across data engineering, database development, ETL, and analytics.
+A selection of hands-on projects across data engineering, database development, ETL, and analytics.
 
-| Project | Description | Technologies |
+| Project | What it demonstrates | Technologies |
 |---|---|---|
-| [Hospital Admissions Data Pipeline](https://github.com/tharwat-farag/hospital-admissions-data-pipeline) | Distributed data processing pipeline for hospital admissions data | Hadoop, Hive, Docker |
-| [Airflow ETL Pipeline](https://github.com/tharwat-farag/airflow-etl-pipeline) | ETL workflow orchestration and pipeline automation | Python, Airflow |
-| [B.Laban Retail Analytics](https://github.com/tharwat-farag/BLaban-Retail-Analytics) | Retail data transformation and customer & sales analytics | Python, SQL |
+| [Hospital Admissions Data Pipeline](https://github.com/tharwat-farag/hospital-admissions-data-pipeline) | Distributed data processing pipeline | Hadoop · Hive · Docker |
+| [Airflow ETL Pipeline](https://github.com/tharwat-farag/airflow-etl-pipeline) | ETL workflow orchestration | Python · Airflow |
+| [B.Laban Retail Analytics](https://github.com/tharwat-farag/BLaban-Retail-Analytics) | Retail data transformation and customer & sales analytics | Python · SQL |
 | [E-Commerce SQL Database](https://github.com/tharwat-farag/Ecommerce_SQL_Project) | Relational database development and SQL analysis | SQL |
-| [Selenium ETL Pipeline](https://github.com/tharwat-farag/selenium-etl-pipeline) | Automated web data extraction and ETL | Python, Selenium |
+| [Selenium ETL Pipeline](https://github.com/tharwat-farag/selenium-etl-pipeline) | Automated web data extraction and ETL | Python · Selenium |
 | [Yallacora Football Scraper](https://github.com/tharwat-farag/yallacora-scraper) | Automated football data collection | Python |
 
 <p align="center">
-  <a href="https://github.com/tharwat-farag?tab=repositories"><strong>Explore All GitHub Repositories →</strong></a>
+  <a href="https://github.com/tharwat-farag?tab=repositories"><strong>EXPLORE ALL REPOSITORIES →</strong></a>
 </p>
 
-## 05 — Professional Experience
+## 05 — PROFESSIONAL EXPERIENCE
 
 **Technical Lead – LMS & EdTech Platforms | Camp Coding**
 
@@ -97,20 +127,17 @@ A selection of hands-on projects demonstrating my work across data engineering, 
 - Coordinated with business stakeholders and technical teams.
 - Supported communication between business and technical requirements.
 
-## 06 — Education & Training
+## 06 — EDUCATION & TRAINING
 
-**B.Sc. in Computer Science**
-
+**B.Sc. in Computer Science**  
 Faculty of Computers and Information — Tanta University  
-Graduated: June 2023 · Very Good
+June 2023 · Very Good
 
-**Data Engineering Specialist Track**
+**Data Engineering Specialist Track**  
+Digilians Initiative — MCIT & Egyptian Military Academy  
+Training in data engineering foundations, data preparation, Python, NumPy, and Pandas.
 
-Digilians Initiative — MCIT & Egyptian Military Academy
-
-Specialized training in data engineering foundations, data preparation, Python, NumPy, and Pandas.
-
-## 07 — Current Focus
+## 07 — CURRENT FOCUS
 
 - Building scalable and maintainable ETL/ELT pipelines.
 - Improving data quality and consistency.
@@ -118,20 +145,20 @@ Specialized training in data engineering foundations, data preparation, Python, 
 - Exploring distributed data processing technologies.
 - Applying data engineering to real-world business problems.
 
-## 08 — Let's Connect
-
-I'm open to connecting with data professionals, engineering teams, and organizations working on data-driven solutions.
+## 08 — LET'S CONNECT
 
 <p align="center">
-  <a href="https://tharwat-farag.vercel.app/"><strong>VISIT MY PORTFOLIO</strong></a>
+  I'm open to connecting with data professionals, engineering teams, and organizations working on data-driven solutions.
   <br/><br/>
-  <a href="https://www.linkedin.com/in/tharwat-farag/">LinkedIn</a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/tharwat-farag">GitHub</a>
-  &nbsp; | &nbsp;
-  <a href="mailto:tharwatbadreldin@gmail.com">Email</a>
+  <a href="https://tharwat-farag.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-70D6A1?style=for-the-badge&labelColor=10251E" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/tharwat-farag/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=10251E" alt="LinkedIn"></a>
+  <a href="mailto:tharwatbadreldin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&labelColor=10251E" alt="Email"></a>
+  <br/><br/>
+  <a href="mailto:tharwatbadreldin@gmail.com">tharwatbadreldin@gmail.com</a>
 </p>
 
+---
+
 <p align="center">
-  <sub>© Tharwat Farag — Data Engineering · SQL · Data Solutions</sub>
+  <sub>© Tharwat Farag · Data Engineering · SQL · Data Solutions</sub>
 </p>
